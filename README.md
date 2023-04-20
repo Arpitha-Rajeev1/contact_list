@@ -13,3 +13,4 @@ Setting up Template Engine using ejs
 2.app.set --> view engine and view_path
 3.setup the views folder
 4.render it using res.render()
+5.npm install body-parser
