@@ -14,3 +14,5 @@ Setting up Template Engine using ejs
 3.setup the views folder
 4.render it using res.render()
 5.npm install body-parser
+
+app.user() signifies it is a middleware
